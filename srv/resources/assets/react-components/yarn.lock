@@ -4379,11 +4379,13 @@ react-dom@^15.3.2:
     object-assign "^4.1.0"
     prop-types "~15.5.7"
 
-react-dropzone@^3.7.3:
-  version "3.12.3"
-  resolved "https://registry.yarnpkg.com/react-dropzone/-/react-dropzone-3.12.3.tgz#a11096cac679bc95478ed7ed0050ef79868bd9f9"
+react-dropzone@^3.13.4:
+  version "3.13.4"
+  resolved "https://registry.yarnpkg.com/react-dropzone/-/react-dropzone-3.13.4.tgz#84da26815c40339691c49b4544c2ef7a16912ccc"
+  integrity sha512-QBQcXVFRJoIhGv26N6VuMfpF5NAJVTI8IrdDnKUh8ZJfTBq8fQfIksD2TR95LD7Sw0EIkY1OxIE9d1YMfSDSaw==
   dependencies:
     attr-accept "^1.0.3"
+    prop-types "^15.5.7"
 
 react-highlighter@^0.3.3:
   version "0.3.3"
