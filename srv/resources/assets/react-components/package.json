@@ -9,7 +9,7 @@
     "immutable": "^3.8.1",
     "react": "^15.4.2",
     "react-addons-css-transition-group": "^15.4.2",
-    "react-bootstrap": "^0.30.5",
+    "react-bootstrap": "^0.33.1",
     "react-bootstrap-typeahead": "^0.9.4",
     "react-dom": "^15.3.2",
     "react-dropzone": "^3.7.3",
